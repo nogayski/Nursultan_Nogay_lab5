@@ -1,0 +1,1 @@
+<?php echo "Age is ".$name; ?>

@@ -1,0 +1,1 @@
+<?php echo "Name is ".$name; ?>
